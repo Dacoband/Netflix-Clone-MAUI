@@ -67,7 +67,7 @@ namespace NetflixCloneMAUI.Services
     }
     public static class TmdbUrls
     {
-        public const string Trending = "3/trending/all/week?language=en-US";
+        public const string Trending = "https://api.themoviedb.org/3/trending/all/week?language=en-US";
         public const string NetflixOriginals = "3/discover/tv?language=en-US&with_networks=213";
         public const string TopRated = "3/movie/top_rated?language=en-US";
         public const string Action = "3/discover/movie?language=en-US&with_genres=28";

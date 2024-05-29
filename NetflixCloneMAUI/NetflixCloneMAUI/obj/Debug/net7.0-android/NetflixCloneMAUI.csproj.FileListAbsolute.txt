@@ -1073,3 +1073,4 @@ D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net
 D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-android\resizetizer\r\drawable\ntflx_logo.png
 D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-android\resizetizer\f\Poppins-Regular.ttf
 D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-android\resizetizer\f\Poppins-SemiBold.ttf
+D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-android\NetflixCloneMAUI.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A8O0E+13WmLZxd00VzoRpzjLmwbFrEEZwaOL+R8XoO+3aIB/STvYGdfMu4QUdJnjj/xWgpsb7KmptR4kIL+s8g==",
+  "dgSpecHash": "8BC+kjjVI3MZsW71tkriGWOl9XN0GLECwwjjjgJDROUyUaoMwca7SKuw7hmISpoRp3M27KukFffWm3ryqo37kw==",
   "success": true,
   "projectFilePath": "D:\\My Project\\Netflix-Clone-MAUI\\NetflixCloneMAUI\\NetflixCloneMAUI\\NetflixCloneMAUI.csproj",
   "expectedPackageFiles": [
@@ -128,8 +128,8 @@
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.ios.ref\\16.4.7142\\microsoft.ios.ref.16.4.7142.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.maui.controls.ref.ios\\7.0.101\\microsoft.maui.controls.ref.ios.7.0.101.nupkg.sha512",
-    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.ios.runtime.ios-arm64\\16.4.7142\\microsoft.ios.runtime.ios-arm64.16.4.7142.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.maui.essentials.runtime.ios\\7.0.101\\microsoft.maui.essentials.runtime.ios.7.0.101.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64\\16.4.7142\\microsoft.ios.runtime.iossimulator-x64.16.4.7142.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.maui.core.runtime.ios\\7.0.101\\microsoft.maui.core.runtime.ios.7.0.101.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.maui.controls.ref.maccatalyst\\7.0.101\\microsoft.maui.controls.ref.maccatalyst.7.0.101.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\16.4.7142\\microsoft.maccatalyst.runtime.maccatalyst-x64.16.4.7142.nupkg.sha512",
