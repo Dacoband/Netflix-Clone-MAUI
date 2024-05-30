@@ -1,23 +1,36 @@
-﻿using NetflixCloneMAUI.Services;
+﻿using NetflixCloneMAUI.ViewModels;
 
 namespace NetflixCloneMAUI.Pages;
 
 public partial class MainPage : ContentPage
 {
-    private readonly TmdbService _tmdbService;
-    int count = 0;
-
-    public MainPage(TmdbService tmdbService)
+    private readonly HomeViewModel _homeViewModel;
+    public MainPage(HomeViewModel homeViewModel)
     {
         InitializeComponent();
-        _tmdbService = tmdbService;
+        _homeViewModel = homeViewModel;
+        BindingContext = _homeViewModel;
     }
 
-    protected async override  void OnAppearing()
+    protected async override void OnAppearing()
     {
         base.OnAppearing();
-        var trending = await _tmdbService.GetTrendingAsync();
+        await _homeViewModel.InitializeAsync();
     }
 
-    
+    private void MovieRow_MediaSelected(object sender, Controls.MediaSelectEventArgs e)
+    {
+        _homeViewModel.SelectMediaCommand.Execute(e.Media);
+    }
+
+    private void MovieInfoBox_Closed(object sender, EventArgs e)
+    {
+        _homeViewModel.SelectMediaCommand.Execute(null);
+    }
+
+    private async void CategoriesMenu_Tapped(object sender, TappedEventArgs e)
+    {
+        await Shell.Current.GoToAsync(nameof(CategoriesPage));
+    }
 }
+

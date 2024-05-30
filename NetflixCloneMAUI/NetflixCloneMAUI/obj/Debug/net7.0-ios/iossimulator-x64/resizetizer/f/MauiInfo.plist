@@ -4,7 +4,6 @@
 <dict>
   <key>UIAppFonts</key>
   <array>
-	<string>MauiInfo.plist</string>
 	<string>OpenSans-Regular.ttf</string>
 	<string>OpenSans-Semibold.ttf</string>
 	<string>Poppins-Regular.ttf</string>

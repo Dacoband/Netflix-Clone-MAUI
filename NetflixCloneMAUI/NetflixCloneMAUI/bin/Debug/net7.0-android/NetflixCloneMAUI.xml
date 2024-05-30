@@ -4,6 +4,38 @@
         <name>NetflixCloneMAUI</name>
     </assembly>
     <members>
+        <member name="T:NetflixCloneMAUI.ViewModels.DetailsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.Media">
+            <inheritdoc cref="F:NetflixCloneMAUI.ViewModels.DetailsViewModel._media"/>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.MainTrailerUrl">
+            <inheritdoc cref="F:NetflixCloneMAUI.ViewModels.DetailsViewModel._mainTrailerUrl"/>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.Runtime">
+            <inheritdoc cref="F:NetflixCloneMAUI.ViewModels.DetailsViewModel._runtime"/>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.IsBusy">
+            <inheritdoc cref="F:NetflixCloneMAUI.ViewModels.DetailsViewModel._isBusy"/>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.SimilarItemWidth">
+            <inheritdoc cref="F:NetflixCloneMAUI.ViewModels.DetailsViewModel._similarItemWidth"/>
+        </member>
+        <member name="F:NetflixCloneMAUI.ViewModels.DetailsViewModel.changeToThisMediaCommand">
+            <summary>The backing field for <see cref="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.ChangeToThisMediaCommand"/>.</summary>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.ChangeToThisMediaCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:NetflixCloneMAUI.ViewModels.DetailsViewModel.ChangeToThisMedia(NetflixCloneMAUI.Models.Media)"/>.</summary>
+        </member>
+        <member name="F:NetflixCloneMAUI.ViewModels.DetailsViewModel.setMainTrailerCommand">
+            <summary>The backing field for <see cref="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.SetMainTrailerCommand"/>.</summary>
+        </member>
+        <member name="P:NetflixCloneMAUI.ViewModels.DetailsViewModel.SetMainTrailerCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:NetflixCloneMAUI.ViewModels.DetailsViewModel.SetMainTrailer(System.String)"/>.</summary>
+        </member>
         <member name="T:NetflixCloneMAUI.ViewModels.HomeViewModel">
             <inheritdoc/>
             <inheritdoc/>
@@ -125,6 +157,21 @@
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
         </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Media">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Media" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.MainTrailerUrl">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "MainTrailerUrl" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Runtime">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Runtime" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SimilarItemWidth">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SimilarItemWidth" generated properties.</summary>
+        </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.TrendingMovie">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "TrendingMovie" generated properties.</summary>
         </member>
@@ -136,6 +183,21 @@
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Media">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Media" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.MainTrailerUrl">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "MainTrailerUrl" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Runtime">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Runtime" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SimilarItemWidth">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SimilarItemWidth" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.TrendingMovie">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "TrendingMovie" generated properties.</summary>

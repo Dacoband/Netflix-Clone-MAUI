@@ -29,29 +29,29 @@
     <AppXManifest Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-29T15:08:17.670</Modified>
+      <Modified>2024-05-29T21:33:53.132</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-29T15:01:34.162</Modified>
+      <Modified>2024-05-29T21:33:52.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\NetflixCloneMAUI.runtimeconfig.json">
       <PackagePath>NetflixCloneMAUI.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-29T14:20:43.644</Modified>
+      <Modified>2024-05-29T21:33:52.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\NetflixCloneMAUI.dll">
       <PackagePath>NetflixCloneMAUI.dll</PackagePath>
-      <Modified>2024-05-29T15:08:16.148</Modified>
+      <Modified>2024-05-29T21:33:51.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>NetflixCloneMAUI.exe</PackagePath>
-      <Modified>2024-05-29T15:08:16.155</Modified>
+      <Modified>2024-05-29T21:33:51.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\NetflixCloneMAUI.deps.json">
       <PackagePath>NetflixCloneMAUI.deps.json</PackagePath>
-      <Modified>2024-05-29T15:01:33.822</Modified>
+      <Modified>2024-05-29T21:33:52.540</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bolic\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.19\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -955,23 +955,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:32:38.062</Modified>
+      <Modified>2024-05-29T21:30:05.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:32:38.074</Modified>
+      <Modified>2024-05-29T21:30:05.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:32:38.093</Modified>
+      <Modified>2024-05-29T21:30:05.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:32:38.120</Modified>
+      <Modified>2024-05-29T21:30:05.982</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:32:38.216</Modified>
+      <Modified>2024-05-29T21:30:06.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -991,447 +991,447 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-05-28T18:45:31.806</Modified>
+      <Modified>2024-05-29T21:30:06.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.026</Modified>
+      <Modified>2024-05-29T21:30:06.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.037</Modified>
+      <Modified>2024-05-29T21:30:06.385</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.046</Modified>
+      <Modified>2024-05-29T21:30:06.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.062</Modified>
+      <Modified>2024-05-29T21:30:06.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.115</Modified>
+      <Modified>2024-05-29T21:30:06.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.865</Modified>
+      <Modified>2024-05-29T21:30:06.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.868</Modified>
+      <Modified>2024-05-29T21:30:06.198</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.882</Modified>
+      <Modified>2024-05-29T21:30:06.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.872</Modified>
+      <Modified>2024-05-29T21:30:06.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.875</Modified>
+      <Modified>2024-05-29T21:30:06.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.850</Modified>
+      <Modified>2024-05-29T21:30:06.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.852</Modified>
+      <Modified>2024-05-29T21:30:06.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.863</Modified>
+      <Modified>2024-05-29T21:30:06.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.854</Modified>
+      <Modified>2024-05-29T21:30:06.177</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.857</Modified>
+      <Modified>2024-05-29T21:30:06.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.818</Modified>
+      <Modified>2024-05-29T21:30:06.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.821</Modified>
+      <Modified>2024-05-29T21:30:06.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.824</Modified>
+      <Modified>2024-05-29T21:30:06.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.827</Modified>
+      <Modified>2024-05-29T21:30:06.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.831</Modified>
+      <Modified>2024-05-29T21:30:06.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.833</Modified>
+      <Modified>2024-05-29T21:30:06.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.836</Modified>
+      <Modified>2024-05-29T21:30:06.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.848</Modified>
+      <Modified>2024-05-29T21:30:06.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.837</Modified>
+      <Modified>2024-05-29T21:30:06.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.841</Modified>
+      <Modified>2024-05-29T21:30:06.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.924</Modified>
+      <Modified>2024-05-29T21:30:06.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.928</Modified>
+      <Modified>2024-05-29T21:30:06.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.934</Modified>
+      <Modified>2024-05-29T21:30:06.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.941</Modified>
+      <Modified>2024-05-29T21:30:06.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.956</Modified>
+      <Modified>2024-05-29T21:30:06.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.904</Modified>
+      <Modified>2024-05-29T21:30:06.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.907</Modified>
+      <Modified>2024-05-29T21:30:06.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.910</Modified>
+      <Modified>2024-05-29T21:30:06.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.913</Modified>
+      <Modified>2024-05-29T21:30:06.254</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.920</Modified>
+      <Modified>2024-05-29T21:30:06.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.886</Modified>
+      <Modified>2024-05-29T21:30:06.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.892</Modified>
+      <Modified>2024-05-29T21:30:06.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.894</Modified>
+      <Modified>2024-05-29T21:30:06.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.898</Modified>
+      <Modified>2024-05-29T21:30:06.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.902</Modified>
+      <Modified>2024-05-29T21:30:06.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.965</Modified>
+      <Modified>2024-05-29T21:30:06.314</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.970</Modified>
+      <Modified>2024-05-29T21:30:06.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.977</Modified>
+      <Modified>2024-05-29T21:30:06.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.989</Modified>
+      <Modified>2024-05-29T21:30:06.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.018</Modified>
+      <Modified>2024-05-29T21:30:06.367</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\brand_netflix.scale-100.png">
       <PackagePath>brand_netflix.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\brand_netflix.scale-125.png">
       <PackagePath>brand_netflix.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\brand_netflix.scale-150.png">
       <PackagePath>brand_netflix.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\brand_netflix.scale-200.png">
       <PackagePath>brand_netflix.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\brand_netflix.scale-400.png">
       <PackagePath>brand_netflix.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-100.png">
       <PackagePath>close.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-125.png">
       <PackagePath>close.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-150.png">
       <PackagePath>close.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-200.png">
       <PackagePath>close.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.734</Modified>
+      <Modified>2024-05-29T21:30:06.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\close.scale-400.png">
       <PackagePath>close.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.743</Modified>
+      <Modified>2024-05-29T21:30:06.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.752</Modified>
+      <Modified>2024-05-29T21:30:06.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.770</Modified>
+      <Modified>2024-05-29T21:30:06.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.790</Modified>
+      <Modified>2024-05-29T21:30:06.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.840</Modified>
+      <Modified>2024-05-29T21:30:06.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-100.png">
       <PackagePath>download.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-125.png">
       <PackagePath>download.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-150.png">
       <PackagePath>download.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-200.png">
       <PackagePath>download.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.734</Modified>
+      <Modified>2024-05-29T21:30:06.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-400.png">
       <PackagePath>download.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\explore.scale-100.png">
       <PackagePath>explore.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.746</Modified>
+      <Modified>2024-05-29T21:30:06.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\explore.scale-125.png">
       <PackagePath>explore.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.770</Modified>
+      <Modified>2024-05-29T21:30:06.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\explore.scale-150.png">
       <PackagePath>explore.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.803</Modified>
+      <Modified>2024-05-29T21:30:06.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\explore.scale-200.png">
       <PackagePath>explore.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.860</Modified>
+      <Modified>2024-05-29T21:30:06.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\explore.scale-400.png">
       <PackagePath>explore.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.089</Modified>
+      <Modified>2024-05-29T21:30:06.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\game.scale-100.png">
       <PackagePath>game.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\game.scale-125.png">
       <PackagePath>game.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\game.scale-150.png">
       <PackagePath>game.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\game.scale-200.png">
       <PackagePath>game.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.734</Modified>
+      <Modified>2024-05-29T21:30:06.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\game.scale-400.png">
       <PackagePath>game.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
       <PackagePath>home.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.745</Modified>
+      <Modified>2024-05-29T21:30:06.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-125.png">
       <PackagePath>home.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.778</Modified>
+      <Modified>2024-05-29T21:30:06.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-150.png">
       <PackagePath>home.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.818</Modified>
+      <Modified>2024-05-29T21:30:06.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-200.png">
       <PackagePath>home.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.880</Modified>
+      <Modified>2024-05-29T21:30:06.252</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-400.png">
       <PackagePath>home.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.091</Modified>
+      <Modified>2024-05-29T21:30:06.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hometab.scale-100.png">
       <PackagePath>hometab.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hometab.scale-125.png">
       <PackagePath>hometab.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hometab.scale-150.png">
       <PackagePath>hometab.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hometab.scale-200.png">
       <PackagePath>hometab.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hometab.scale-400.png">
       <PackagePath>hometab.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info_circle.scale-100.png">
       <PackagePath>info_circle.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info_circle.scale-125.png">
       <PackagePath>info_circle.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info_circle.scale-150.png">
       <PackagePath>info_circle.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info_circle.scale-200.png">
       <PackagePath>info_circle.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.734</Modified>
+      <Modified>2024-05-29T21:30:06.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\info_circle.scale-400.png">
       <PackagePath>info_circle.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\library.scale-100.png">
       <PackagePath>library.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.750</Modified>
+      <Modified>2024-05-29T21:30:06.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\library.scale-125.png">
       <PackagePath>library.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.776</Modified>
+      <Modified>2024-05-29T21:30:06.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\library.scale-150.png">
       <PackagePath>library.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.820</Modified>
+      <Modified>2024-05-29T21:30:06.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\library.scale-200.png">
       <PackagePath>library.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.885</Modified>
+      <Modified>2024-05-29T21:30:06.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\library.scale-400.png">
       <PackagePath>library.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.091</Modified>
+      <Modified>2024-05-29T21:30:06.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\like.scale-100.png">
       <PackagePath>like.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\like.scale-125.png">
       <PackagePath>like.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\like.scale-150.png">
       <PackagePath>like.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\like.scale-200.png">
       <PackagePath>like.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.734</Modified>
+      <Modified>2024-05-29T21:30:06.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\like.scale-400.png">
       <PackagePath>like.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\movie.scale-100.png">
       <PackagePath>movie.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\movie.scale-125.png">
       <PackagePath>movie.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\movie.scale-150.png">
       <PackagePath>movie.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\movie.scale-200.png">
       <PackagePath>movie.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\movie.scale-400.png">
       <PackagePath>movie.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.735</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification_bell.scale-100.png">
       <PackagePath>notification_bell.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.742</Modified>
+      <Modified>2024-05-29T21:30:06.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification_bell.scale-125.png">
       <PackagePath>notification_bell.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.760</Modified>
+      <Modified>2024-05-29T21:30:06.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification_bell.scale-150.png">
       <PackagePath>notification_bell.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.793</Modified>
+      <Modified>2024-05-29T21:30:06.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification_bell.scale-200.png">
       <PackagePath>notification_bell.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.839</Modified>
+      <Modified>2024-05-29T21:30:06.203</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification_bell.scale-400.png">
       <PackagePath>notification_bell.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.016</Modified>
+      <Modified>2024-05-29T21:30:06.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ntflx_logo.scale-100.png">
       <PackagePath>ntflx_logo.scale-100.png</PackagePath>
@@ -1439,123 +1439,123 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\play.scale-100.png">
       <PackagePath>play.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\play.scale-125.png">
       <PackagePath>play.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\play.scale-150.png">
       <PackagePath>play.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\play.scale-200.png">
       <PackagePath>play.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.734</Modified>
+      <Modified>2024-05-29T21:30:06.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\play.scale-400.png">
       <PackagePath>play.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png">
       <PackagePath>plus.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.731</Modified>
+      <Modified>2024-05-29T21:30:06.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-125.png">
       <PackagePath>plus.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-150.png">
       <PackagePath>plus.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.732</Modified>
+      <Modified>2024-05-29T21:30:06.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-200.png">
       <PackagePath>plus.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.733</Modified>
+      <Modified>2024-05-29T21:30:06.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-400.png">
       <PackagePath>plus.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.735</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rate.scale-100.png">
       <PackagePath>rate.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.736</Modified>
+      <Modified>2024-05-29T21:30:06.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rate.scale-125.png">
       <PackagePath>rate.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.737</Modified>
+      <Modified>2024-05-29T21:30:06.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rate.scale-150.png">
       <PackagePath>rate.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.738</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rate.scale-200.png">
       <PackagePath>rate.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.753</Modified>
+      <Modified>2024-05-29T21:30:06.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rate.scale-400.png">
       <PackagePath>rate.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.754</Modified>
+      <Modified>2024-05-29T21:30:06.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-100.png">
       <PackagePath>search.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.757</Modified>
+      <Modified>2024-05-29T21:30:06.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-125.png">
       <PackagePath>search.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.781</Modified>
+      <Modified>2024-05-29T21:30:06.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-150.png">
       <PackagePath>search.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.808</Modified>
+      <Modified>2024-05-29T21:30:06.179</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-200.png">
       <PackagePath>search.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.861</Modified>
+      <Modified>2024-05-29T21:30:06.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-400.png">
       <PackagePath>search.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.049</Modified>
+      <Modified>2024-05-29T21:30:06.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\share.scale-100.png">
       <PackagePath>share.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.737</Modified>
+      <Modified>2024-05-29T21:30:06.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\share.scale-125.png">
       <PackagePath>share.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.738</Modified>
+      <Modified>2024-05-29T21:30:06.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\share.scale-150.png">
       <PackagePath>share.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.738</Modified>
+      <Modified>2024-05-29T21:30:06.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\share.scale-200.png">
       <PackagePath>share.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.740</Modified>
+      <Modified>2024-05-29T21:30:06.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\share.scale-400.png">
       <PackagePath>share.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.741</Modified>
+      <Modified>2024-05-29T21:30:06.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png">
       <PackagePath>user.scale-100.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.755</Modified>
+      <Modified>2024-05-29T21:30:06.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-125.png">
       <PackagePath>user.scale-125.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.779</Modified>
+      <Modified>2024-05-29T21:30:06.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-150.png">
       <PackagePath>user.scale-150.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.809</Modified>
+      <Modified>2024-05-29T21:30:06.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-200.png">
       <PackagePath>user.scale-200.png</PackagePath>
-      <Modified>2024-05-28T18:45:31.863</Modified>
+      <Modified>2024-05-29T21:30:06.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-400.png">
       <PackagePath>user.scale-400.png</PackagePath>
-      <Modified>2024-05-28T18:45:32.056</Modified>
+      <Modified>2024-05-29T21:30:06.444</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -329,3 +329,4 @@ D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net
 D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\Poppins-Regular.ttf
 D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\Poppins-SemiBold.ttf
 D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-ios\iossimulator-x64\NetflixCloneMAUI.sourcelink.json
+D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
