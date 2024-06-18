@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-29T21:33:53.132</Modified>
+      <Modified>2024-06-13T04:08:11.422</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-29T21:33:52.882</Modified>
+      <Modified>2024-06-13T04:08:11.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\NetflixCloneMAUI.runtimeconfig.json">
       <PackagePath>NetflixCloneMAUI.runtimeconfig.json</PackagePath>
@@ -43,15 +43,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\NetflixCloneMAUI.dll">
       <PackagePath>NetflixCloneMAUI.dll</PackagePath>
-      <Modified>2024-05-29T21:33:51.478</Modified>
+      <Modified>2024-06-13T04:08:09.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>NetflixCloneMAUI.exe</PackagePath>
-      <Modified>2024-05-29T21:33:51.483</Modified>
+      <Modified>2024-06-13T04:08:09.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My Project\Netflix-Clone-MAUI\NetflixCloneMAUI\NetflixCloneMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\NetflixCloneMAUI.deps.json">
       <PackagePath>NetflixCloneMAUI.deps.json</PackagePath>
-      <Modified>2024-05-29T21:33:52.540</Modified>
+      <Modified>2024-06-13T04:08:10.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bolic\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.19\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
